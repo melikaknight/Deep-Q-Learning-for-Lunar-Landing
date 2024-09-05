@@ -32,8 +32,8 @@ Key objectives:
 To get started with this project, follow the steps below:
 
 1. Clone this repository:
-```bash
-git clone https://github.com/Siddharth-2382/Lunar-Lander-AI.git
+bash
+git clone https://github.com/melikaknight/Deep-Q-Learning-for-Lunar-Landing.git
 cd Lunar-Lander-AI
 2. Install the required dependencies:
 It's recommended to use a virtual environment to manage dependencies:
@@ -42,6 +42,7 @@ bash
 Copy code
 pip3 install -r requirements.txt
 ---
+
 ## 🔧 Requirements
 Ensure you have the following installed:
 
@@ -52,7 +53,7 @@ Ensure you have the following installed:
 - Other required libraries (see `requirements.txt`).
 
 To install dependencies, run:
-```bash
+bash
 pip install -r requirements.txt
 ---
 ## 💻Usage
@@ -79,6 +80,6 @@ Successful landings with minimal crashes.
 Optimal fuel usage for efficient landings.
 For more detailed performance visualizations, you can refer to the graphs generated in the notebook.
 ---
-##🎥 Demo
+## 🎥 Demo
 Watch the trained agent in action as it performs successful lunar landings!
 [Watch the demo video](./path-to-your-video-file.mp4)
