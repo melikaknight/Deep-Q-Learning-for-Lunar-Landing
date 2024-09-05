@@ -1,4 +1,4 @@
-# 🚀 Lunar Lander AI using Deep Q-Learning & OpenAI's Gym
+# 🚀 AI Deep Q-Learning for Lunar Landing & OpenAI's Gymnasium
 
 This repository contains the implementation of a **Deep Q-Learning (DQN) agent** to solve the Lunar Lander environment from OpenAI Gym. The objective is to train an agent to safely land a spacecraft on the moon’s surface using reinforcement learning techniques.
 
@@ -78,5 +78,4 @@ The trained agent learns to land the spacecraft successfully after several episo
 
 ## 🎥 Demo
 Watch the trained agent in action as it performs successful lunar landings!  
-[Watch the demo video](./path-to-your-video-file.mp4)
-
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
