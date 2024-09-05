@@ -78,4 +78,4 @@ The trained agent learns to land the spacecraft successfully after several episo
 
 ## 🎥 Demo
 Watch the trained agent in action as it performs successful lunar landings!  
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Demo CountPages alpha](https://github.com/melikaknight/Deep-Q-Learning-for-Lunar-Landing/blob/main/Video/Demo.gif)]
