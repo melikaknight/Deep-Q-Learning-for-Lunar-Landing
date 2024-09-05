@@ -77,6 +77,8 @@ The trained agent learns to land the spacecraft successfully after several episo
 - Optimal fuel usage for efficient landings.
 
 ## 🎥 Demo
-Watch the trained agent in action as it performs successful lunar landings!  
+Watch the trained agent in action as it performs successful lunar landings! 
+
+
 ![Demo CountPages alpha](https://github.com/melikaknight/Deep-Q-Learning-for-Lunar-Landing/blob/main/Video/Demo.gif)
 
