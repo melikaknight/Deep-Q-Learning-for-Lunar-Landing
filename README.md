@@ -11,9 +11,6 @@ This repository contains the implementation of a **Deep Q-Learning (DQN) agent**
 - [Usage](#usage)
 - [Results](#results)
 - [Demo](#demo)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## 🌟 Introduction
@@ -65,21 +62,21 @@ bash
 Copy code
 jupyter notebook Deep Q-Learning for Lunar Landing.ipynb
 Run all cells to:
-
 Set up the environment.
 Train the Deep Q-Learning agent.
 Monitor the training progress and evaluate the agent's performance.
----
-## 📊Results
+
+## 📊 Results
 The trained agent learns to land the spacecraft successfully after several episodes of training. The performance can be measured using the following metrics:
 
-Cumulative reward per episode: Indicates how well the agent is performing over time.
-Landing success rate: Tracks the agent's ability to safely land.
-Key Outcomes:
-Successful landings with minimal crashes.
-Optimal fuel usage for efficient landings.
-For more detailed performance visualizations, you can refer to the graphs generated in the notebook.
----
+- **Cumulative reward per episode**: Indicates how well the agent is performing over time.
+- **Landing success rate**: Tracks the agent's ability to safely land.
+
+### Key Outcomes:
+- Successful landings with minimal crashes.
+- Optimal fuel usage for efficient landings.
+
 ## 🎥 Demo
-Watch the trained agent in action as it performs successful lunar landings!
+Watch the trained agent in action as it performs successful lunar landings!  
 [Watch the demo video](./path-to-your-video-file.mp4)
+
