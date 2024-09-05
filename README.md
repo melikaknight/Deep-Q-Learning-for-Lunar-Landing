@@ -41,14 +41,20 @@ It's recommended to use a virtual environment to manage dependencies:
 bash
 Copy code
 pip3 install -r requirements.txt
+---
 ## 🔧 Requirements
 Ensure you have the following installed:
 
-Python 3.7+
-OpenAI Gym: Provides the Lunar Lander environment.
-NumPy: For efficient mathematical operations.
-TensorFlow or PyTorch: For building the neural network (based on your implementation).
-Other required libraries (see requirements.txt).
+- **Python 3.7+**
+- **OpenAI Gym**: Provides the Lunar Lander environment.
+- **NumPy**: For efficient mathematical operations.
+- **TensorFlow** or **PyTorch**: For building the neural network (based on your implementation).
+- Other required libraries (see `requirements.txt`).
+
+To install dependencies, run:
+```bash
+pip install -r requirements.txt
+---
 ## 💻Usage
 To train the agent and observe its performance, follow these steps:
 
@@ -62,6 +68,7 @@ Run all cells to:
 Set up the environment.
 Train the Deep Q-Learning agent.
 Monitor the training progress and evaluate the agent's performance.
+---
 ## 📊Results
 The trained agent learns to land the spacecraft successfully after several episodes of training. The performance can be measured using the following metrics:
 
@@ -71,6 +78,7 @@ Key Outcomes:
 Successful landings with minimal crashes.
 Optimal fuel usage for efficient landings.
 For more detailed performance visualizations, you can refer to the graphs generated in the notebook.
-
+---
 ##🎥 Demo
 Watch the trained agent in action as it performs successful lunar landings!
+[Watch the demo video](./path-to-your-video-file.mp4)
